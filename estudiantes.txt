@@ -1,0 +1,6 @@
+22391511,cristopher,eduardo,torres,stuardo,computacion e informatica,2025
+15432789,Luis,Alberto,Ramirez,Fuentes,Ingenieria Informatica,2021
+18765432,Daniela,Alejandra,Morales,Castillo,Psicologia,2019
+23456789,Sebastian,Ignacio,Navarro,Silva,Ingenieria Comercial,2016
+9876543,Valentina,Paz,Torres,Gonzalez,Enfermeria,2023
+20123456,Matias,Andres,Riquelme,Aravena,Derecho,2014

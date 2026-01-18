@@ -1,0 +1,25 @@
+9780131103627,The C Programming Language,Dennis Ritchie,Programacion,7,1
+
+
+
+9780201633610,Design Patterns,Erich Gamma,Programacion,4,1
+
+
+
+9788432225078,Cien Anos de Soledad,Gabriel Garcia Marquez,Literatura,6,3
+
+
+
+9780307474728,Sapiens,Yuval Noah Harari,Ciencias Sociales,7,4
+
+
+
+9788420422994,Calculo de una Variable,James Stewart,Ciencias Basicas,10,6
+
+
+
+9788490328728,Introduccion a la Fisica,Serway y Jewett,Ciencias Basicas,8,5
+
+
+
+9788439722037,Don Quijote de la Mancha,Miguel de Cervantes,Literatura,3,1
